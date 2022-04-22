@@ -2,6 +2,7 @@
 #header {
   display: flex;
   align-items: center;
+  background-color: #f4f4f4;
 }
 .logoPurple {
   width: 20%;
@@ -25,6 +26,9 @@ h1 {
 }
 
 /*naviagion*/
+.navigation {
+  background-color: #f4f4f4;
+}
 .topBlock {
   display: inline-block;
   vertical-align: top;
